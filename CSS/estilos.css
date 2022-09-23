@@ -97,6 +97,13 @@ body{
     font-weight: 300px;
     margin: 15px 0;
 }
+.hero__subtitle2{
+    color: #b47f31;
+    font-size: 3rem;
+    font-weight: 300px;
+    margin: 15px 0;
+    text-align: center;
+}
 
 .hero__cta{
     display: inline-block;
@@ -243,11 +250,13 @@ body{
 }
 
 .projects__hover{
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     text-align: center;
+    color: whitesmoke;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -263,16 +272,17 @@ body{
 }
 
 .projects__price{
-    padding: 0;
+    color: var(--color-primary);
+    text-align: center;
+    font-size: 2rem;
+    margin: 0;
     border-bottom: 0;
-    color: white;
-    text-align: end;
-    text-decoration: solid;
+    
 }
 
 .projects__icon{
-    margin-top: 10px;
-    font-size: 30%;
+    margin-top: 20px;
+    font-size: 40%;
 }
 
 /* testimony */
