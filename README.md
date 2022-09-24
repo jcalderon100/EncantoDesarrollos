@@ -21,7 +21,7 @@ https://jcalderon100.github.io/EncantoDesarrollos/
 
 
 ## 🚀 About Me
-Soy Mercadologó, egresado de la Univerdidad Autonoma de Durango UAD, actualmente me encuentro estudiando full stack developer 
+Soy Mercadologó, egresado de la Univerdidad Autonoma de Durango UAD, actualmente me encuentro estudiando full stack developer y ciencia de datos e IA de la Universidad UTEL. 
 
 
 ## 🔗 Links
