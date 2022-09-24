@@ -11,6 +11,7 @@ body{
     font-family: 'Raleway', sans-serif;
 }
 
+
 .container{
     width: 90%;
     margin: 0 auto;
@@ -25,6 +26,18 @@ body{
     margin-bottom: 35px;
     text-align: center;
 }
+
+.head{
+    height: 90vh;
+    background-image: var(--background), url(/img/FONDO.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+}
+
+
 
 .nav{
     display: flex;
@@ -59,24 +72,11 @@ body{
 
 /* head */
 
-.head{
-    height: 90vh;
-    background-image: var(--background), url(/img/PROPIEDAD\ 2.jpg);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-attachment: fixed;
-    background-position: center;
-    position: relative;
-}
-
-
-.head.container{
+.head__container{
     display: flex;
     height: calc(100vh - 70px);
-    align-items: center;
-    color: #fff;
-    padding: 0;
-   
+    align-items: top;
+    color: #fff;  
 }
 
 .head__text{
