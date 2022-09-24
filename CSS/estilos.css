@@ -25,19 +25,6 @@ body{
     margin-bottom: 35px;
     text-align: center;
 }
-.hero{
-    height: 90vh;
-    background-image: var(--background), url(/img/PROPIEDAD\ 2.jpg);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-attachment: fixed;
-    background-position: center;
-    position: relative;
-}
-
-.hero.container {
-    padding: 0;
-}
 
 .nav{
     display: flex;
@@ -55,11 +42,11 @@ body{
 .nav__items{
     color: white;
     text-decoration: none;
-    margin-right: 20px;
+    margin-right: 33px;
     padding: 10px 15px;
     font-weight: inherit;
     font-size: 1.2rem;
-
+    
 }
 
 .nav__items--cta{
@@ -70,36 +57,48 @@ body{
     padding: 10px;
 }
 
-/* hero */
+/* head */
 
-.hero.container{
+.head{
+    height: 90vh;
+    background-image: var(--background), url(/img/PROPIEDAD\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+}
+
+
+.head.container{
     display: flex;
     height: calc(100vh - 70px);
     align-items: center;
     color: #fff;
+    padding: 0;
    
 }
 
-.hero__text{
+.head__text{
     width: 80%;
     margin-bottom: 50px;
 
 }
-.hero__title{
+.head__title{
     color: #fff;
     font-size: 100px;
     margin: 9px;
 
 }
 
-.hero__subtitle{
+.head__subtitle{
     color: #b47f31;
     font-size: 4rem;
     font-weight: 300px;
     margin: 10px 0;
     padding: 10px;
 }
-.hero__subtitle2{
+.head__subtitle2{
     color: #b47f31;
     font-size: 3rem;
     font-weight: 300px;
@@ -107,7 +106,7 @@ body{
     text-align: center;
 }
 
-.hero__cta{
+.head__cta{
     display: inline-block;
     background: #fff;
     padding: var(--boton-padding);
@@ -120,7 +119,7 @@ body{
    
 }
 
-.hero__logo{
+.head__logo{
     width: 200px;
     height: 200px;
     padding: 5px;
@@ -129,7 +128,7 @@ body{
    
 }
 
-.hero__wave{
+.head__wave{
     position: absolute;
     bottom: 0;
     left: 0;
@@ -382,7 +381,6 @@ body{
 }
 
 
-
 .footer__icon{
     color: inherit;
     font-size: 30px;
@@ -415,16 +413,16 @@ body{
         border: none;
     }
 
-    .hero__text{
+    .head__text{
         width: 100%;
         margin-bottom: 80px;
     }
 
-    .hero__title{
+    .head__title{
         font-size: 2.5rem;
     }
 
-    .hero__subtitle{
+    .head__subtitle{
         font-size: 1.5rem;
         
     }
@@ -507,16 +505,16 @@ body{
     }
 
     
-    .hero__text{
+    .head__text{
         text-align: center;
         margin-bottom: 100px;
     }
 
-    .hero__title{
+    .head__title{
         font-size: 2rem;
     }
 
-    .hero__subtitle{
+    .head__subtitle{
         font-size: 1.5rem;
         
     }
