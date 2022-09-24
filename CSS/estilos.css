@@ -88,6 +88,7 @@ body{
 .hero__title{
     color: #fff;
     font-size: 100px;
+    margin: 10px;
 
 }
 
@@ -95,7 +96,8 @@ body{
     color: #b47f31;
     font-size: 4rem;
     font-weight: 300px;
-    margin: 15px 0;
+    margin: 10px 0;
+    padding: 10px;
 }
 .hero__subtitle2{
     color: #b47f31;
