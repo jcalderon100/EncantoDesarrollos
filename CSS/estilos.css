@@ -18,7 +18,7 @@ body{
     overflow: hidden;
     padding: 80px 0;
     max-width: 1200px;
-    }
+}
 
 .subtitle{
     color: var(--color-primary);
@@ -342,7 +342,10 @@ body{
 }
 
 .contact{
+    display: flex;
+    flex-direction: column;
     align-items: center;
+    justify-content: center;
     text-align: center;
 }
 
@@ -423,7 +426,9 @@ body{
     }
 
     .head__title{
-        font-size: 2.5rem;
+        font-size: 0rem;
+        padding-top: 70px;
+        margin: 0;
     }
 
     .head__subtitle{
@@ -447,6 +452,7 @@ body{
 
     .about__text{
         text-align: center;
+
     }
 
     .about___img--lef{
@@ -499,12 +505,18 @@ body{
     .nav{
         flex-wrap: wrap;
         justify-content: space-evenly;
-        margin-top: 10px;
+        margin-top: 0px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
     }
 
     .nav__items{
-        padding: 0 10px;
+        padding: 0 5px;
         border: 0;
+        
         
     }
 
@@ -532,7 +544,15 @@ body{
     }
 
     .about{
-        row-gap: 60px;
+        row-gap: 80px;
+    }
+
+    .about__picture{
+        max-width: 150%;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
     }
 
     .about__container{
@@ -565,6 +585,8 @@ body{
     .testimony__person{
         flex-direction: column;
     }
+
+   
 
     .testimony__texts{
         text-align: center;
