@@ -25,7 +25,7 @@ https://jcalderon100.github.io/EncantoDesarrollos/
 
 
 ## 🔗 Links
-[![linkedin](https://media-exp1.licdn.com/dms/image/C4E03AQHIKGkBeg07nA/profile-displayphoto-shrink_200_200/0/1643349026225?e=1669248000&v=beta&t=nZgDOvKB7JrIDd9TCDyxBMU72YCPquCi68NkoHxSHfc)](https://www.linkedin.com/in/julio-c-0b060522b)
+[![linkedin](https://drive.google.com/drive/u/0/folders/1l9_Kw7PDrazJ0oIcS_mznLyM-YTqwBw5)](https://jcalderon100.github.io/EncantoDesarrollos/)
 
 
 ## 🛠 Skills
