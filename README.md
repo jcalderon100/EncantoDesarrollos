@@ -22,8 +22,8 @@ https://jcalderon100.github.io/EncantoDesarrollos/
 
 ## 🚀 About
 
-## Screenshots
-![App Screenshot](https://drive.google.com/file/d/1HBD7pH1XoW3nFMeqP04IWXQ2wLObo613/view))
+## Portada
+![App Screenshot](https://github.com/jcalderon100/Encanto-Desarrollos/blob/main/img/Screenshot.jpg?raw=true)
 
 
 ## 🛠 Skills
