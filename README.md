@@ -1,29 +1,19 @@
-# El Encanto Desarrollos
+# Proyecto 1 - HTML y CSS - El Encanto Desarrollos
 
-El Proyecto tiene como finalidad la creacion de un sitio web para mostrar los distintos 
-productos y/o servicios que el desarrollador ofrece a sus posibles clientes
+El Proyecto tiene como finalidad la creacion de una landing page utilizando codigo HTML y CSS. 
 
-## Agradecimientos a:
-
- - [Images from unsplash.com](https://unsplash.com/)
- - [fonts from of Google Fonts](https://fonts.google.com/?query=RALE)
- - [Wave from Smooth.ie](https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections)
-
-
-## Authors
-
-- [@Julio Calderon](https://github.com/jcalderon100)
-
+## Portada
+![App Screenshot](https://github.com/jcalderon100/Encanto-Desarrollos/blob/main/img/Screenshot.jpg?raw=true)
 
 ## Enlace demo
 
 https://jcalderon100.github.io/EncantoDesarrollos/
 
+## Fuentes:
 
-## 🚀 About
-
-## Portada
-![App Screenshot](https://github.com/jcalderon100/Encanto-Desarrollos/blob/main/img/Screenshot.jpg?raw=true)
+ - [Images from unsplash.com](https://unsplash.com/)
+ - [fonts from of Google Fonts](https://fonts.google.com/?query=RALE)
+ - [Wave from Smooth.ie](https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections)
 
 
 ## 🛠 Skills
